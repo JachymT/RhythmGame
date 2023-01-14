@@ -1,4 +1,4 @@
 # RhythmGame
 Rhythm game is a two key, taiko style drumming rhythm game featuring popular video game music. Web version can be played at:
 
-'[https://simmer.io/@Jac242/rhythm-game](https://simmer.io/@Jac242/rhythm-game)'
+[https://simmer.io/@Jac242/rhythm-game](https://simmer.io/@Jac242/rhythm-game)

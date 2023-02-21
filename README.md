@@ -5,4 +5,4 @@ Web version can be played on itch.io
 
 [https://flowerbath.itch.io/rhythm-game](https://flowerbath.itch.io/rhythm-game)
 
-[Development documentation]()
+[Development documentation](https://github.com/JachymT/RhythmGame/blob/main/Jachym%20Tolar%20Component%203.pdf)

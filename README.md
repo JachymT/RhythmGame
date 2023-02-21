@@ -5,3 +5,4 @@ Web version can be played on itch.io
 
 [https://flowerbath.itch.io/rhythm-game](https://flowerbath.itch.io/rhythm-game)
 
+[Development documentation]()
